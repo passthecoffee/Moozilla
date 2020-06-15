@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Chasing Pavements (un-edited)
+title: Chasing Pavements
 lang: Saesneg
 instrument: Ukulele
 permalink: /chasing-pavements/
 author: Adele
 categories: Cerddoriaeth
+unedited: yes
 ---
 [Verse]
 

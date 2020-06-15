@@ -1,11 +1,12 @@
 ---
 layout: music
-title: will you still love me tomorrow (un-edited)
+title: will you still love me tomorrow
 lang: Saesneg
 instrument: Ukulele
 permalink: /will-you-still-love-me-tomorrow/
 author: Amy Winehouse
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 C  Csus4  C  Csus4

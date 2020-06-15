@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Who you are (un-edited)
+title: Who you are
 lang: Saesneg
 instrument: Ukulele
 permalink: /who-you-are/
 author: Jessie j
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 [Verse 1]  

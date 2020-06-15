@@ -1,13 +1,13 @@
 ---
 layout: music
-title: This I Promise You (un-edited)
+title: This I Promise You
 lang: Saesneg
 instrument: Ukulele
 permalink: /this-i-promise-you/
 author: N*Sync
 categories: Cerddoriaeth
+unedited: yes
 ---
-
 [Verse 1]
 
 G                   Am

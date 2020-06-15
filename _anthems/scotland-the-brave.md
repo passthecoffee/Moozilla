@@ -5,6 +5,7 @@ lang: Anthem
 instrument: Ukulele
 permalink: /scotland-the-brave/
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 

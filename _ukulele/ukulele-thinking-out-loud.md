@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Thinking Out Loud (un-edited)
+title: Thinking Out Loud
 lang: Saesneg
 instrument: Ukulele
 permalink: /thinking-out-loud/
 author: Ed Sheeran
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 [Verse 1]

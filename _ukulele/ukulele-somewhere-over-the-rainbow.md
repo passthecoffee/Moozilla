@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Somewhere over the rainbow (un-edited)
+title: Somewhere over the rainbow
 lang: Saesneg
 instrument: Ukulele
 permalink: /somewhere-over-the-rainbow/
 author: Israel Kawaki...
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 Fadd9 2-0-3-0 or 0-0-1-0

@@ -1,11 +1,12 @@
 ---
 layout: music
-title:  Te Aroha (un-edited)
+title:  Te Aroha
 lang: Saesneg
 instrument: Ukulele
 permalink: /te-aroha/
 author: moari
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 Te Aroha

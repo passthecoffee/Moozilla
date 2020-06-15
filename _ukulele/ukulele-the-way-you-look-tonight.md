@@ -1,11 +1,12 @@
 ---
 layout: music
-title: The way you look tonight (un-edited)
+title: The way you look tonight
 lang: Saesneg
 instrument: Ukulele
 permalink: /the-way-you-look-tonight/
 author: Frank Sinatra
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 [Verse 1]

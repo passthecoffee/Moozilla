@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Dance With My Father (un-edited)
+title: Dance With My Father
 lang: Saesneg
 instrument: Ukulele
 permalink: /dance-with-my-father/
 author: Luther Vandross
 categories: Cerddoriaeth
+unedited: yes
 ---
 [Intro]
 

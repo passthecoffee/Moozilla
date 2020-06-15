@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Streets of London (un-edited)
+title: Streets of London
 lang: Saesneg
 instrument: Ukulele
 permalink: /Streets-of-london/
 author: Ralph McTell
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 [VERSE]

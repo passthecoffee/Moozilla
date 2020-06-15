@@ -1,11 +1,12 @@
 ---
 layout: music
-title: Alcoholic (un-edited)
+title: Alcoholic
 lang: Saesneg
 instrument: Ukulele
 permalink: /alcoholic/
 author: Common Kings
 categories: Cerddoriaeth
+unedited: yes
 ---
 [Verse 1]
 [A]You're the chaser to my [F#m7]Crown Royal  

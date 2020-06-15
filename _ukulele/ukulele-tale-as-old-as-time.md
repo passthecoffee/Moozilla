@@ -1,11 +1,12 @@
 ---
 layout: music
-title: tale as old as time (un-edited)
+title: Tale as old as time
 lang: Saesneg
 instrument: Ukulele
 permalink: /tale-as-old-as-time/
 author: Disney
 categories: Cerddoriaeth
+unedited: yes
 ---
 
 [Verse 1]
