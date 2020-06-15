@@ -1,0 +1,15 @@
+---
+---
+	{% include header.html %}   
+
+	<section>
+		<h2>{{page.title}}</h2>
+		
+		<article class="chords moozilla">
+			{{ page.content | markdownify }}
+		</article>
+		
+		<div class="view-all"><a href="javascript:history.go(-1)" title="Go back">&lt;&lt; Go Back</a></div>
+	</section>
+
+	{% include footer.html %}

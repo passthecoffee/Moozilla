@@ -1,0 +1,16 @@
+name: 'Moozilla'
+description: 'A small collection of chords I like to play!'
+url: 'https://moozilla.tk'
+baseurl:
+permalink: /:title/
+exclude: ['README.md','template.md']
+future: true
+collections:
+  ukulele:
+    output: true
+  cerddoriaeth:
+    output: true
+  harmonica:
+    output: true
+  anthems:
+    output: true
