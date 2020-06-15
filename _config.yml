@@ -1,6 +1,6 @@
 name: 'Moozilla'
 description: 'A small collection of chords I like to play!'
-url: 'https://moozilla.tk'
+url: 'https://passthecoffee.github.io/Moozilla/'
 baseurl:
 permalink: /:title/
 exclude: ['README.md','template.md']
