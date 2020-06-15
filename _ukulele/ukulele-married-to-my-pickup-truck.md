@@ -7,7 +7,6 @@ permalink: /Married-to-my-pickup-truck/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## married to my pickup truck
 
 [G]I'm getting married to my p[C]ickup truck  
 [D]It never leaves me when I'm [G]down on my luck  

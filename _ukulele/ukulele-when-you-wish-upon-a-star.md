@@ -7,7 +7,7 @@ permalink: /when-you-wish-upon-a-star/
 author: Disney
 categories: Cerddoriaeth
 ---
-## When You Wish Up-On A Star
+
 [Intro]. G Am D G, Am C G  
 [Verse].  
 [G]When you wish up-on[Am] a star,  

@@ -6,7 +6,6 @@ instrument: Ukulele
 permalink: /cwm-rhondda/
 categories: Cerddoriaeth
 ---
-## Cwm Rhondda
 
 [G]Wele’n [D7]sefyll [G]rhwng y [D7]myrtwydd  
 [G]Wrthddrych [C]teilwng [G][]o' [D7][]fy [G][]mryd  

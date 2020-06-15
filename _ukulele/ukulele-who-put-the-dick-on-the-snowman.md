@@ -7,7 +7,6 @@ permalink: /who-put-the-dick-on-the-snowman/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Who put the dick on the snowman
 
 [A]who put the dick on the snowman  
 [D]and embarrased the fam[A]ily  

@@ -7,7 +7,7 @@ permalink: /Dancing-with-a-man/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Dancin' with a man
+
 A B E                                 
 [E]I saw her sitting in a bar room[A]  
 In that s[B7]mokey atmos[E]phere  

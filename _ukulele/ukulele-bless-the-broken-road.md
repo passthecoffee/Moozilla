@@ -7,8 +7,6 @@ permalink: /bless-the-broken-road/
 author: Rascal Flatts
 categories: Cerddoriaeth
 ---
-## Bless The Broken Road
-
 [Intro]  
 C F G C (2x)  
   

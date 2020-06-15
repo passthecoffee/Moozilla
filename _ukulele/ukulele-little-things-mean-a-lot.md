@@ -7,7 +7,7 @@ permalink: /little-things-mean-a-lot/
 author: Little Shoes
 categories: Cerddoriaeth
 ---
-## little things mean a lot
+
 Original key = B  
 To play with the CD use a capo at fret 4.  
 Verse 1  

@@ -7,8 +7,6 @@ permalink: /tale-as-old-as-time/
 author: Disney
 categories: Cerddoriaeth
 ---
-## 
-
 
 [Verse 1]
 

@@ -7,8 +7,6 @@ permalink: /country-roads/
 author: John Denver
 categories: Cerddoriaeth
 ---
-## Country Roads
-
 [A].  
 [A]Almost heaven, [F#m]West Virginia,  
 [E]Blue Ridge Mountains, [D]Shenandoah R[A]iver.  

@@ -7,7 +7,6 @@ permalink: /if-you-play-your-cards-wrong/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## If you play your cards wrong
 
 If you p[G]lay your cards wrong, you can ta[C]ke me home tonight  
 [D]You've got all the makings of m[C]y futu[D]re ex-w[G]ife  

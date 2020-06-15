@@ -7,8 +7,6 @@ permalink: /his-eye-is-on-the-sparrow/
 author: Lauryn Hill
 categories: Cerddoriaeth
 ---
-## His Eye Is On The Sparrow
-
 [Verse]  
 [C]Why should I feel discouraged,  
 [F]Why should the shadows come[C], [G/B],  

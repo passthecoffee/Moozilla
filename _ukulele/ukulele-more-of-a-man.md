@@ -7,7 +7,6 @@ permalink: /more-of-a-man/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## More of a man
 
 She li[E]kes to go huntin' with her buddies  
 She once killed a deer with just a st[B7]ick  

@@ -7,8 +7,6 @@ permalink: /green-green-grass-of-home/
 author: Tom Jones
 categories: Cerddoriaeth
 ---
-## green green grass of home
-
 [Intro]
 [G], [D7], [Am7], [D7], [C], [G], [Am7], [G]
 

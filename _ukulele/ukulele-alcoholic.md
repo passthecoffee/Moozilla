@@ -7,8 +7,6 @@ permalink: /alcoholic/
 author: Common Kings
 categories: Cerddoriaeth
 ---
-## Common Kings
-
 [Verse 1]
 [A]You're the chaser to my [F#m7]Crown Royal  
 [Bm]Body like a [E7]Coke bottle  

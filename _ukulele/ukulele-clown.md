@@ -7,8 +7,6 @@ permalink: /clown/
 author: Emeli Sande
 categories: Cerddoriaeth
 ---
-## Clown
-
 [Verse 1].  
 [Am]I guess it's [D]funnier from where you're [G]standing  
 [Am]'Cause from [D]over here I've missed the [G]joke  

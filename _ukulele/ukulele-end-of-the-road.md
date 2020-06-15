@@ -7,13 +7,7 @@ permalink: /end-of-the-road/
 author: BoyzIImen
 categories: Cerddoriaeth
 ---
-## 
-
-End Of The Road by Boyz II Men
-
 Capo 1
-
-
 [Verse]
 
 [D] We belong together [Dsus4] 

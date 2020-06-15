@@ -7,8 +7,6 @@ permalink: /dance-with-my-father/
 author: Luther Vandross
 categories: Cerddoriaeth
 ---
-## 
-
 [Intro]
 
 Bb F Gm Eb

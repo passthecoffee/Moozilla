@@ -7,8 +7,6 @@ permalink: /2002/
 author: Anne Marie
 categories: Cerddoriaeth
 ---
-## 2002
-
 [Verse 1]
 I will always rem[D]ember  
 The d[D]ay you kissed my lips  

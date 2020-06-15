@@ -6,7 +6,7 @@ instrument: Ukulele
 permalink: /ar-hyd-y-nos/
 categories: Cerddoriaeth
 ---
-## Ar Hyd Y Nos
+
 [G]Holl am[C]rantau’r [Am]sêr ddy[D7]wedant  
 [C]Ar [D]hyd y [G]nos  
 [G]Dyma’r [C]ffordd i [Am]fro go[D7]goniant  

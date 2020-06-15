@@ -7,7 +7,6 @@ permalink: /thinking-out-loud/
 author: Ed Sheeran
 categories: Cerddoriaeth
 ---
-## 
 
 [Verse 1]
 C          Am

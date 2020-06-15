@@ -6,7 +6,6 @@ instrument: Ukulele
 permalink: /calon-lan/
 categories: Cerddoriaeth
 ---
-## Calon Lan
 
 Intro: C C-G-C-F  
 F-C-G-C  

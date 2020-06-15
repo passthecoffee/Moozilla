@@ -7,8 +7,6 @@ permalink: /As-Long-As-We-Beat-The-English/
 author: Stereophonics
 categories: Cerddoriaeth
 ---
-## As Long As We Beat The English
-  
 INTRO: [C], [G], [C], [G]  
 We do[C]n't wanna [G]be yo[C]ur ene[G]my,  
 But wh[C]en we're on the [G]field  

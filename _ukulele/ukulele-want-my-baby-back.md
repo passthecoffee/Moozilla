@@ -7,7 +7,6 @@ permalink: /want-my-baby-back/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Want my baby back
 
 [C]Darling when we met  
 you were a [Am]pretty little thing  

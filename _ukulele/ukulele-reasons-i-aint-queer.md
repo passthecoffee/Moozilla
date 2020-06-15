@@ -7,7 +7,6 @@ permalink: /reasons-i-aint-queer/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Reasons I Ain't Queer
 
 C   D   Em    D/F#      G  
   

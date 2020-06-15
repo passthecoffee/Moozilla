@@ -7,7 +7,6 @@ permalink: /Its-Beginning-To-Look-A-Lot-Like-Christmas/
 author: Meredith Willson
 categories: Cerddoriaeth
 ---
-## Its Beginning To Look A Lot Like Christmas
 
 Its [G]beginning to look a [C]lot like [G]Christmas,  
 e[B7]verywhe[C]re you g[E7]o  

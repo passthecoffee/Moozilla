@@ -7,7 +7,6 @@ permalink: /te-aroha/
 author: moari
 categories: Cerddoriaeth
 ---
-## 
 
 Te Aroha
 Traditional Maori Waiata: in D

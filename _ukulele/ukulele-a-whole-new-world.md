@@ -7,8 +7,6 @@ permalink: /a-whole-new-world/
 author: Disney
 categories: Cerddoriaeth
 ---
-## A Whole New World
-
 [Verse 1].  
 I[C] can [G]show you the [C]world  
 Sh[C]ining, sh[G]immering, [Am]splen[G]did  

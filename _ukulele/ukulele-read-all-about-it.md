@@ -7,6 +7,7 @@ permalink: /read-all-about-it/
 author: Emeli Sande
 categories: Cerddoriaeth
 ---
+
 [Intro]  
 [Bm], [G], [D], [A]  
 [Bm], [G], [D], [A]  

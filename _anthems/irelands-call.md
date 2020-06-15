@@ -6,7 +6,6 @@ instrument: Ukulele
 permalink: /irelands-call/
 categories: Cerddoriaeth
 ---
-## Irelands Call
 
 Verse  
   

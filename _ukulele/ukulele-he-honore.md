@@ -7,8 +7,6 @@ permalink: /he-honore/
 author: moari
 categories: Cerddoriaeth
 ---
-## 
-
 [C]He hōnore, he ko-[Am]-rōria
 Mau-[F]-ngārongo [G] ki te whe-[C]-nua
 Wha-[C]-ka-aro [Am] pai e 

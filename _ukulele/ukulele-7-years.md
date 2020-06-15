@@ -7,7 +7,6 @@ permalink: /seven-years/
 author: Lukas Graham
 categories: Cerddoriaeth
 ---
-## 7 Years
 
 [Intro]
 [Em],  [G],  [C],  [D]  

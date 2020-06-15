@@ -7,7 +7,6 @@ permalink: /titties-and-beer/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Titties and beer
 
 Ti[D]tties and Beer, Titties and B[G]eer  
 Ti[D]tties and Beer, Titties and B[G]eer  

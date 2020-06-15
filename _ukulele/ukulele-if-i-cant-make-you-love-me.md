@@ -7,9 +7,6 @@ permalink: /if-i-cant-make-you-love-me/
 author: Bonnie Raitt
 categories: Cerddoriaeth
 ---
-## If I Can't Make You Love Me
-
-
 
 Fsus2 F Fsus2 F
 Dm

@@ -7,7 +7,6 @@ permalink: /mamas-got-her-boobs-out/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## mamas' got her boobs out
 
 [E]I remember way back when I was just a boy,  
 going [A]places with my mom and d[E]ad  

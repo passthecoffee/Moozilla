@@ -7,7 +7,6 @@ permalink: /make-you-feel-my-love/
 author: Adele
 categories: Cerddoriaeth
 ---
-## Make you feel my love
 
 Intro
 G  D/F#  F  C  

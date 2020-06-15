@@ -7,9 +7,6 @@ permalink: /Cant-take-that-away/
 author: Mariah Carey
 categories: Cerddoriaeth
 ---
-## Can't take that away
-
-
 [C]They can [G]say anything they [Am]want to [Em]say  
 Try to bring me [F]down  
 But I will no[C]t allow  

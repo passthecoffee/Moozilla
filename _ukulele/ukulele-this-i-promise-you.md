@@ -7,7 +7,6 @@ permalink: /this-i-promise-you/
 author: N*Sync
 categories: Cerddoriaeth
 ---
-## This I Promise You
 
 [Verse 1]
 

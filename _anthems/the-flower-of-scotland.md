@@ -7,8 +7,6 @@ permalink: /the-flower-of-scotland/
 categories: Cerddoriaeth
 ---
 
-## The Flower of Scotland
-
 INTRO:  
 F-Bb-F x2  
 F-C-F  

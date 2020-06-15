@@ -7,7 +7,6 @@ permalink: /Streets-of-london/
 author: Ralph McTell
 categories: Cerddoriaeth
 ---
-## Streets of london
 
 [VERSE]
 

@@ -7,7 +7,6 @@ permalink: /Shes-seen-A-lot-of-dick-in-her-day/
 author: Disney
 categories: Cerddoriaeth
 ---
-## Seen Alot of dick in her day
 [D]Back in 1932, in a sleazy bordello  
 [G]Grandma' worked her fing[A]ers to the bo[D]ne  
 [D]While others were baking cookies,  

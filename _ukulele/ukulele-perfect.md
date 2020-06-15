@@ -7,7 +7,6 @@ permalink: /perfect/
 author: Ed Sheeran
 categories: Cerddoriaeth
 ---
-## Perfect
 
 [Intro]
 [G]

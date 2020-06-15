@@ -7,8 +7,7 @@ permalink: /youll-never-walk-alone/
 author: Gerry and the pacemakers
 categories: Cerddoriaeth
 ---
-## You'll Never Walk Alone
-  
+
 When you [G]walk through a storm hold your [D]head up high  
 And [C]don't be [G]afraid of the [D]dark[Dm]  
 At the [Am]end of the [F]storm is a [C]golden [Am]sky  

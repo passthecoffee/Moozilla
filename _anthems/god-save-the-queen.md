@@ -7,8 +7,6 @@ permalink: /god-save-the-queen/
 categories: Cerddoriaeth
 ---
 
-## God Save The Queen 
-
 God Save the Queen chords
 UK National Anthem
 

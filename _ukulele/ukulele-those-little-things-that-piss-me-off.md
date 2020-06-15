@@ -7,7 +7,6 @@ permalink: /those-little-things-that-piss-me-off/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Those little things that piss me off
 
 [G]When I'm sittin on a toilet in a [C]house that I don't know  
 [D]Lookin all around me where the toilet paper [G]go  

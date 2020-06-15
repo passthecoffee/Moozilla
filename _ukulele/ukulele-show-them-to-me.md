@@ -7,7 +7,6 @@ permalink: /show-them-to-me/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## show them to me
 
 [G]Oh it seems to me this whole wo[D]rld's gone cr[Em]azy  
 there's t[C]oo much hate and killin' going o[D]n  

@@ -7,7 +7,7 @@ permalink: /lady-in-red/
 author: Chris DeBurgh
 categories: Cerddoriaeth
 ---
-## 
+
 [Verse 1]  
 I've ne[G]ver seen you looking so lo[Em]vely, as you did ton[D]ight.  
 I've never seen you shine so br[Em]ight... o[D]oo... o[C]oo  

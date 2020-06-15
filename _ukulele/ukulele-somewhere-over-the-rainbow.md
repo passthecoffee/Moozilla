@@ -8,7 +8,6 @@ author: Israel Kawaki...
 categories: Cerddoriaeth
 ---
 
-
 Fadd9 2-0-3-0 or 0-0-1-0
 
 [Intro]  

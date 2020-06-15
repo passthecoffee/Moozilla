@@ -7,8 +7,6 @@ permalink: /chasing-pavements/
 author: Adele
 categories: Cerddoriaeth
 ---
-## Chasing Pavements
-
 [Verse]
 
    *C

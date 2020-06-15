@@ -7,7 +7,7 @@ permalink: /my-way/
 author: Frank Sinatra
 categories: Cerddoriaeth
 ---
-## My Way
+
 [Verse 1].  
 And [C]now, the end is [Em]near,  
 And so I [Gm]face, the final [A7]curtain.  

@@ -7,7 +7,6 @@ permalink: /the-way-you-look-tonight/
 author: Frank Sinatra
 categories: Cerddoriaeth
 ---
-## The way you look tonight
 
 [Verse 1]
 

@@ -7,7 +7,7 @@ permalink: /pure-imagination/
 author: Willy Wonka
 categories: Cerddoriaeth
 ---
-## Pure Imagination
+
 Intro: C  
 Verse 1:  
 [Am7]Come with me and you'll be,  

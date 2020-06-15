@@ -7,7 +7,6 @@ permalink: /put-your-clothes-back-on/
 author: Rodney Carrington
 categories: Cerddoriaeth
 ---
-## Put your clothes back on
 
 Put your clothes back o[A]n  
 I'd rather be al[D]one  

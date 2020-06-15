@@ -7,8 +7,6 @@ permalink: /scotland-the-brave/
 categories: Cerddoriaeth
 ---
 
-## Scotland the brave
-
 
 This is the complete song and it is correct, unlike the other tabs I could find. No
 time whatsoever so use the sheet at http://www.viperpiper.org/forum/viewtopic.php?t=296

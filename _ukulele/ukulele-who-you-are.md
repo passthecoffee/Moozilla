@@ -7,7 +7,6 @@ permalink: /who-you-are/
 author: Jessie j
 categories: Cerddoriaeth
 ---
-## who you are
 
 [Verse 1]  
 [Em]I stare at my [C]reflection in the [G]mirro[D]r  

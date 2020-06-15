@@ -7,8 +7,6 @@ permalink: /all-i-want-for-christmas/
 author: Mariah Carey
 categories: Cerddoriaeth
 ---
-## All I Want For Christmas
-
 [Verse 1]  
 [G]I don't want a lot for Christmas  
 [G]/[B]There's just one thing I need  
