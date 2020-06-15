@@ -1,2 +1,2 @@
-# 03022544
-This is the website that keeps track of my life! It's of use to no one else apart from myself.
+# Moozilla
+A small chord library of songs i love to play.
