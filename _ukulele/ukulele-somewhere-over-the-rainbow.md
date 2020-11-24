@@ -6,87 +6,52 @@ instrument: Ukulele
 permalink: /somewhere-over-the-rainbow/
 author: Israel Kawaki...
 categories: Cerddoriaeth
-unedited: yes
 ---
-
-Fadd9 2-0-3-0 or 0-0-1-0
-
 [Intro]  
- [C] [Em] | [Am] [F] | 
-| [C] [G] | [Am] [Fadd9] | [F] |
-
-[Verse]
-C  Em  F  C
-Oooo, oooo, oooo...  
-F  E7  Am  F
-Oooo, oooo, oooo... 
+C,Em,Am,F - C,G,Am,Fadd9,F  
   
-[Chorus]  
-C         Em
-Somewhere over the rainbow  
-F       C
-Way up high  
-F       C
-And the dreams that you dream of  
-G          Am      F
-Once in a lullaby...  
-     C        Em
-Oh, somewhere over the rainbow  
-F           C
-Blue birds fly  
-F        C
-And the dreams that you dream of  
-G                     Am    F
-Dreams really do come true...  
+Verse    
+[C]Ooo[Em]o, o[F]ooo[C], ooo  
+[F]Ooo[E7]o, oo[Am]oo, [F]ooo  
   
-[Verse]  
-     C
-Someday I'll wish upon a star  
-G                                  Am   F
-Wake up where the clouds are far behind me  
-      C
-Where trouble melts like lemon drops  
-G
-High above the chimney tops  
-       Am           F
-That's where you'll find me  
-
-[Chorus]  
-    C         Em
-Oh, somewhere over the rainbow  
-F             C
-Blue birds fly  
-F       C
-And the dream that you dare to  
-G               Am   F
-Why oh why can't I...  
+Chorus  
+[C]Somewhere [Em]over the rainbow  
+[F]Way up [C]high  
+[F]And the [C]dreams that you dream of  
+[G]Once in a [Am]lullaby.[F]..  
+Oh, [C]somewhere [Em]over the rainbow  
+[F]Blue birds [C]fly  
+[F]And the [C]dreams that you dream of  
+[G]Dreams really do come [Am]true[F]...  
   
-[Verse]  
-     C
-Someday I'll wish upon a star  
-G                                  Am   F
-Wake up where the clouds are far behind me  
-      C
-Where trouble melts like lemon drops  
-G
-High above the chimney tops  
-       Am           F
-That's where you'll find me  
+Verse  
+Some[C]day I'll wish upon a star  
+[G]Wake up where the clouds are far be[Am]hind [F]me  
+Where [C]trouble melts like lemon drops  
+[G]High above the chimney tops  
+That's [Am]where you'll [F]find me  
   
-[Chorus]  
-    C         Em
-Oh, somewhere over the rainbow  
-F          C
-Way up high  
-F       C
-And the dreams that you dare to  
-G               Am   F
-Why oh why can't I  
+Chorus  
+Oh, [C]somewhere [Em]over the rainbow  
+[F]Blue birds fl[C]y  
+[F]And the [C]dream that you dare to  
+[G]Why oh why can't[Am] I.[F]..  
   
-[Outro]  
-C  Em  F  C
-Oooo, oooo, ooo  
-F  E7  Am  F
-Oooo, oooo, ooo  
+Verse  
+Some[C]day I'll wish upon a star  
+[G]Wake up where the clouds are far be[Am]hind [F]me  
+Where [C]trouble melts like lemon drops  
+[G]High above the chimney tops  
+That's [Am]where you'll [F]find me  
+  
+Chorus  
+Oh, [C]somewhere [Em]over the rainbow  
+[F]Way up hig[C]h  
+[F]And the [C]dreams that you dare to  
+[G]Why oh why can't[Am] I[F]  
+  
+Outro  
+[C]Ooo[Em]o, o[F]ooo[C], ooo  
+[F]Ooo[E7]o, oo[Am]oo, [F]ooo  
 
 {% include music-notes.html %}

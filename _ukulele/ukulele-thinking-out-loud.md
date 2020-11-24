@@ -6,123 +6,75 @@ instrument: Ukulele
 permalink: /thinking-out-loud/
 author: Ed Sheeran
 categories: Cerddoriaeth
-unedited: yes
 ---
+Verse 1  
+[C] When your [Am]legs don't work  
+Like they [F]used to befor[G]e  
+[C] And I can't [Am]sweep you off of your[F] fee[G]t  
+[C] Will your [Am]mouth still remember  
+the [F]taste of my lov[G]e  
+[C] Will your [Am]eyes still smile  
+[F]from your cheek[G]s  
+  
+And darling [C]I w[Am]ill be loving [F]you '[G]til we're seve[C]nty[Am][F],[G]  
+And baby [C]my he[Am]art could still fall [F]as [G]hard at [C]twenty-[Am]three  
+[F]And I'm thinking '[G]bout how  
 
-[Verse 1]
-C          Am
- When your legs don't work
-          F             G
-Like they used to before
-C            Am                   F    G
- And I can't sweep you off of your feet
-C          Am
- Will your mouth still remember
-    F               G
-the taste of my love
-C          Am
- Will your eyes still smile
-F               G
-from your cheeks
-
-            C  Am           F    G              C   Am  F  G
-And darling I will be loving you 'til we're seventy
-           C   Am                   F  G           C    Am
-And baby my heart could still fall as hard at twenty-three
-F                 G
-And I'm thinking 'bout how
-
-[Pre-Chorus 1]
-Dm                       G        C
-People fall in love in mysterious ways
-Dm                        G
-Maybe just the touch of a hand
-     Dm                            Am
-Well me I fall in love with you every single day
-Dm                 G (5 strums) -stop
-And I just wanna tell you I am
-
-[Chorus]
-         C    Am  F
-So honey now
-        G                C   Am  F
-Take me into your loving arms
-        G                    C           Am  F
-Kiss me under the light of a thousand stars
-           G                  C     Am
-Place your head on my beating heart
-             F     G
-I'm thinking out loud
-          Am   C    F   C      F     G C
-And maybe we  found love right where we are
-
-[Verse 2]
-C            Am                     F           G
- And when my hair's all but gone and my memory fades
-C        Am                      F    G
- And the crowds don't remember my name
-C        Am         F                    G           C
- When my hands don't play the strings the same way, mmm
-       Am                        F    G
-I know you will still love me the same
-
-              C   Am             F    G                 C  Am  F  G
-Cause honey your soul could never grow old it's evergreen
-           C    Am           F     G            C  Am  F
-And baby your smile's forever in my mind and memory
-                  G
-And I'm thinking 'bout how
-
-[Pre-Chorus 2]
-Dm                       G        C
-People fall in love in mysterious ways
-    Dm                       G
-And maybe it's all part of a plan
-     Dm                           Am     Am
-Well I'll just keep on making the same mistakes
-Dm             G (5 strums) -stop
-Hoping that you'll understand
-
-[Chorus]
-          C    Am F
-That baby now, oooooh
-        G                C   Am  F
-Take me into your loving arms
-        G                    C           Am  F
-Kiss me under the light of a thousand stars
-           G                  C     Am
-Place your head on my beating heart
-             F     G
-I'm thinking out loud
-          Am   C    F   C      F     G C
-And maybe we  found love right where we are
-
-[Instrumental]
-C Am F G
-C Am F G
-C Am F G
-C Am F G
-
-[Chorus]
-        C   Am F
-So baby now
-        G                C   Am  F
-Take me into your loving arms
-        G                    C           Am    F
-Kiss me under the light of a thousand stars, oh darlin'
-           G                  C     Am
-Place your head on my beating heart
-             F     G
-I'm thinking out loud
-
-[Outro]
-          Am   G    F   C      F     G C
-And maybe we  found love right where we are
-          Am   G    F   C      F     G C
-And maybe we  found love right where we are
-          Am   G    F   C      F     G C
-And maybe we  found love right where we are
-          Am   G    F   C      F     G C
-And maybe we  found love right where we are
+[Pre-Chorus 1]  
+[Dm]People fall in love in [G]mysterious [C]ways  
+[Dm]Maybe just the touch of a [G]hand  
+Well [Dm]me I fall in love with you [Am]every single day  
+[Dm]And I just wanna [G]tell [G]you [G]I [G]am  
+  
+[Chorus]  
+So honey [C]no[Am]w, [F],  
+Take me [G]into your loving [C]arm[Am]s, [F],  
+Kiss me [G]under the light of a [C]thousand [Am]stars,[F],  
+Place your [G]head on my beating [C]hear[Am]t  
+I'm thinking [F]out [G]loud  
+And maybe [Am]we  [C]found [F]love [C]right [F]where [G]we [C]are  
+  
+[Verse 2]  
+[C] And when my [Am]hair's all but gone and [F]my memory [G]fades  
+[C] And the [Am]crowds don't remember [F]my [G]name  
+[C] When my [Am]hands don't [F]play the strings the [G]same [C]way, mmm  
+I know [Am]you will still [F]love me the [G]same  
+  
+Cause honey [C]your [Am]soul could never [F]grow [G]old it's [C]ever[Am]green[F], [G],  
+And baby [C]your [Am]smile's forever [F]in my [G]mind and [C]memo[Am]ry, [F],  
+And I'm thinking '[G]bout how  
+  
+[Pre-Chorus 2]  
+[Dm]People fall in love in [G]mysterious [C]ways  
+And [Dm]maybe it's all part of a [G]plan  
+Well [Dm]I'll just keep on making the [Am]same [Am]mistakes  
+[Dm]Hoping that you'll [G]under[G]stan[G]d  
+  
+[Chorus]  
+That baby [C]now, [Am]oooo[F]oh  
+Take me [G]into your loving [C]arm[Am]s[F]  
+Kiss me [G]under the light of a [C]thousand [Am]star[F]s  
+Place your [G]head on my beating [C]hear[Am]t  
+I'm thinking [F]out [G]loud  
+And maybe [Am]we  [C]found [F]love [C]right [F]where [G]we [C]are  
+  
+[Instrumental]  
+C, Am, F, G,  
+C, Am, F, G,  
+C, Am, F, G,  
+C, Am, F, G,  
+  
+[Chorus]  
+So baby [C]no[Am]w, [F],  
+Take me [G]into your loving [C]arm[Am]s, [F],  
+Kiss me [G]under the light of a [C]thousand [Am]stars,oh [F]darlin,  
+Place your [G]head on my beating [C]hear[Am]t  
+I'm thinking [F]out [G]loud  
+  
+[Outro]  
+And maybe [Am]we [C]found [F]love [C]right [F]where [G]we [C]are  
+And maybe [Am]we [C]found [F]love [C]right [F]where [G]we [C]are  
+And maybe [Am]we [C]found [F]love [C]right [F]where [G]we [C]are  
+And maybe [Am]we [C]found [F]love [C]right [F]where [G]we [C]are  
 
 {% include music-notes.html %}

@@ -6,50 +6,29 @@ instrument: Ukulele
 permalink: /will-you-still-love-me-tomorrow/
 author: Amy Winehouse
 categories: Cerddoriaeth
-unedited: yes
 ---
 
 C  Csus4  C  Csus4
 
-C              Am         Dm     G7 
-Tonight you're mine   complete - ly 
-C             Am        G       G7
-You give your love   so sweet - ly 
-    E        E7       Am      G       Am 
-Tonight  the light of love is in your eyes 
-F              G7        Csus4   C 
-  But will you love me tomor - - row 
- 
-C         Am      F      G7 
-Is this a lasting trea - sure 
-C         Am       G      G7 
-Or just a moment's plea - sure 
-E        E7        Am    G       Am 
- Can I believe the magic of your sighs 
-F              G           Csus4   C 
-  Will you still love me tomor - - row 
- 
- 
-F            G7      Em    C7
-Tonight with words unspo - ken 
-F              G7           C    C7
-  You say that I'm the only o - -ne 
-F             G7       Em7    A7 
-  But will my heart be bro - -ken 
-         D7              Dm      F   G7 
-When the night meets the morning s - un 
- 
- 
-C           Am         F       G7 
-  I have to know  that yo - ur love 
-C            Am        G       G7 
-  Is a love I  can  be su - re of 
-E            E7      Am      G    Am 
-  So tell me now and I won't ask again  
-F               G7           Csus4   C 
-  Will you still   love me tomor - - row 
-F                G7        Fm      C     Fm    C bar
-  Will you still love me tomor - - row 
-                           (slow)
+[C]Tonight you're [Am]mine, com[Dm]plete[G7]ly  
+[C]You give your [Am]love, so [G]sweet[G7]ly  
+To[E]night,  the [E7]light, of [Am]love is [G]in your [Am]eyes  
+[F]  But will you [G7]love me tom[Csus4]or[C]row  
+  
+[C]Is this a [Am]lasting [F]trea - [G7]sure  
+[C]Or just a [Am]moment's [G]plea - [G7]sure  
+[E] Can I be[E7]lieve the [Am]magic [G]of your [Am]sighs  
+[F]  Will you sti[G]ll love me to[Csus4]mor[C]row  
+   
+[F]Tonight with [G7]words un[Em]spo[C7]ken  
+[F]  You say that [G7]I'm the only [C]on[C7]e  
+[F]  But will my [G7]heart be [Em7]broke[A7]n  
+When the [D7]night meets the [Dm]morning [F]su[G7]n  
+  
+[C]  I have to [Am]know  that [F]yo - ur [G7]love  
+[C]  Is a love I[Am]  can  be [G]su - re [G7]of  
+[E]  So tell me [E7]now and [Am]I won't [G]ask a[Am]gain  
+[F]  Will you stil[G7]l   love me to[Csus4]mor - - [C]row  
+[F]  Will you still [G7]love me tom[Fm]or - - [C]row [Fm]._.[C].  
 
 {% include music-notes.html %}

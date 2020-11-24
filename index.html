@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<div class="moozilla">
+<div class="moozilla"> 
 	<h2>Ukulele</h2>
 	<ul>
 		{% assign sortedPosts = site.ukulele | sort: 'author' %}
 		{% for songs in sortedPosts %}
-			<li><span><a href="{{songs.url | prepend: site.baseurl }}"><date {% if songs.unedited %} class="edit" {% endif %}>{{songs.author}}</date> {{songs.title}}</a></span></li>
+			<li><span><a href="{{songs.url | prepend: site.baseurl }}"><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.author}}</author> {{songs.title}}</a></span></li>
 		{% endfor %}
 	</ul>
 
@@ -14,7 +14,7 @@ layout: default
 	<ul>
 		{% for songs in site.harmonica %}
 		{% if songs.instrument == "Harmonica" %}
-			<li><span><a href="{{songs.url | prepend: site.baseurl }}"><date {% if songs.unedited %} class="edit" {% endif %}>{{songs.author}}</date> {{songs.title}}</a></span></li> {% endif %}
+			<li><span><a href="{{songs.url | prepend: site.baseurl }}"><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.author}}</author> {{songs.title}}</a></span></li> {% endif %}
 		{% endfor %}
 	</ul>
 
@@ -22,14 +22,14 @@ layout: default
 	<ul>
 		{% for songs in site.cerddoriaeth %}
 		{% if songs.lang == "Cymraeg" %}
-			<li><span><date {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</date><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.title}}</a></span></li> {% endif %}
+			<li><span><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</author><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.title}}</a></span></li> {% endif %}
 		{% endfor %}
 	</ul>
 
 	<h2>Anthems</h2>			
 	<ul>
 		{% for songs in site.anthems %}
-		{% if songs.lang == "Anthem" %}<li><span><date {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</date><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.author}}{{songs.title}}</a></span></li> {% endif %}
+		{% if songs.lang == "Anthem" %}<li><span><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</author><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.author}}{{songs.title}}</a></span></li> {% endif %}
 		{% endfor %}
 	</ul>
 </div>

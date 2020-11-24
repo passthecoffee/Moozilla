@@ -15,14 +15,10 @@ unedited: yes
 [Bm]I can't help but [E7]think  
 How smooth you go down yeah  
 
-[A] [F#m7]
-Baby girl I love your flavor  
-[Bm] [E7]
-you're the Rockstar after that Jaeger  
-[A] [F#m7]
-Southern Comfort when I need to be held  
-[Bm] [E7]
-So in love with you girl  
+[A]Baby girl I love your [F#m7]flavor  
+[Bm]you're the Rockstar after that [E7]Jaeger  
+[A]Southern Comfort when I need to be [F#m7]held  
+So in [Bm]love with you [E7]girl  
 
 [Pre-Hook]
 [A] [F#m7]
