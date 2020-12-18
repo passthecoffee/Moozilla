@@ -1,0 +1,15 @@
+—
+layout: default
+—
+
+<div class=“moozilla”>
+
+	<h2>Harmonica</h2>			
+	<ul>
+		{% for songs in site.ukulele %}
+		{% if songs.theme == “Christmas” %}
+			<li><span><a href=“{{songs.url | prepend: site.baseurl }}”><author {% if songs.unedited %} class=“edit” {% endif %}>{{songs.author}}</author> {{songs.title}}</a></span></li> {% endif %}
+		{% endfor %}
+	</ul>
+	
+</div>

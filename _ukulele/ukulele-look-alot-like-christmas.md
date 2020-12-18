@@ -3,6 +3,7 @@ layout: music
 title: It's Beginning To Look A Lot Like Christmas
 lang: Saesneg
 instrument: Ukulele
+theme: Christmas
 permalink: /Its-Beginning-To-Look-A-Lot-Like-Christmas/
 author: Meredith Willson
 categories: Cerddoriaeth

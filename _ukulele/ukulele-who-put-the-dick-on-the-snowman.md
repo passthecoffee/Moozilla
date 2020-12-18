@@ -3,6 +3,7 @@ layout: music
 title: Who put the dick on the snowman
 lang: Saesneg
 instrument: Ukulele
+theme: Christmas
 permalink: /who-put-the-dick-on-the-snowman/
 author: Rodney Carrington
 categories: Cerddoriaeth
