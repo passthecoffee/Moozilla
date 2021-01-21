@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="moozilla"> 
+	<h2>Anthems</h2>			
+	<ul>
+		{% for songs in site.anthems %}
+		{% if songs.lang == "Anthem" %}<li><span><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</author><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.author}}{{songs.title}}</a></span></li> {% endif %}
+		{% endfor %}
+	</ul>
+</div>

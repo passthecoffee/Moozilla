@@ -14,3 +14,5 @@ collections:
     output: true
   anthems:
     output: true
+  christmas:
+    output: true

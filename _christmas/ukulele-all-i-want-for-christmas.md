@@ -6,7 +6,7 @@ instrument: Ukulele
 theme: Christmas
 permalink: /all-i-want-for-christmas/
 author: Mariah Carey
-categories: Cerddoriaeth
+categories: christmas
 ---
 
 [Verse 1]  

@@ -6,7 +6,7 @@ instrument: Ukulele
 theme: Christmas
 permalink: /Its-Beginning-To-Look-A-Lot-Like-Christmas/
 author: Meredith Willson
-categories: Cerddoriaeth
+categories: christmas
 ---
 
 Its [G]beginning to look a [C]lot like [G]Christmas,  

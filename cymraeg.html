@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="moozilla"> 
+	<h2>Cymraeg</h2>
+	<ul>
+		{% for songs in site.cerddoriaeth %}
+		{% if songs.lang == "Cymraeg" %}
+			<li><span><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</author><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.title}}</a></span></li> {% endif %}
+		{% endfor %}
+	</ul>
+</div>

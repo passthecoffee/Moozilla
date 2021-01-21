@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="moozilla"> 
+	<h2>Ukulele</h2>
+	<ul>
+		{% assign sortedPosts = site.ukulele | sort: 'author' %}
+		{% for songs in sortedPosts %}
+			<li><span><a href="{{songs.url | prepend: site.baseurl }}"><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.author}}</author> {{songs.title}}</a></span></li>
+		{% endfor %}
+	</ul>
+</div>

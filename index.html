@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
+<a href="{{site.url}}/ukulele/">ukulele</a>
+<a href="{{site.url}}/christmas/">Christmas</a>
+<a href="{{site.url}}/anthems/">anthems</a>
+<a href="{{site.url}}/harmonica/">harmonica</a>
 
-<div class="moozilla"> 
+
+<div class="moozilla" style="display: none;"> 
 	<h2>Ukulele</h2>
 	<ul>
 		{% assign sortedPosts = site.ukulele | sort: 'author' %}
@@ -33,6 +38,4 @@ layout: default
 		{% if songs.lang == "Anthem" %}<li><span><author {% if songs.unedited %} class="edit" {% endif %}>{{songs.instrument}}</author><a href="{{songs.url | prepend: site.baseurl }}"> {{songs.author}}{{songs.title}}</a></span></li> {% endif %}
 		{% endfor %}
 	</ul>
-	
-	<a href=“/Christmas/”>Christmas Songs</a>
 </div>
