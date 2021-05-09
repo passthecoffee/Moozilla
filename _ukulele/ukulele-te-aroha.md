@@ -36,23 +36,16 @@ Ta Toe Ta Toe E
 #Traditional Maori Waiata: in C
 
 [Verse]
-C    
-Te Aroha
-F       C
-Te Whakapono
-F       C
-Te Rangimarie
-C      G7     C   G7
-Ta Toe Ta Toe E
+[C]Te Aroha
+[F]Te Whaka[C]pono
+[F]Te Rangi[C]marie
+[C]Ta Toe [G7]Ta Toe [C]E [G7]
 
 [Verse]
-C    
-Te Aroha
-F       C
-Te Whakapono
-F       C
-Te Rangimarie
-C      G7     C
-Ta Toe Ta Toe E
+
+[C]Te Aroha
+[F]Te Whaka[C]pono
+[F]Te Rangi[C]marie
+[C]Ta Toe [G7]Ta Toe [C]E
 
 {% include music-notes.html %}
